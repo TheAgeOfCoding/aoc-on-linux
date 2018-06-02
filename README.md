@@ -1,7 +1,9 @@
 # Age of Conquerors on Linux
 ## Install HD
-### Install Play On Linux
-### Install Steam inside Play on Linux
+- Install Play On Linux
+- Install Steam inside Play on Linux
+    - Install MS core fonts
+    - Add parameters to steam icon `-no-cef-sandbox -no-dwrite`
 ### Bypass Launcher
 Go to the game folder (right click and go "open applications directory" then navigate to /steamapps/common/age2HD/ ). 
 Renamed the Launcher.exe to someting else. 
