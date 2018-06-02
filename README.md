@@ -7,6 +7,7 @@ Go to the game folder (right click and go "open applications directory" then nav
 Renamed the Launcher.exe to someting else. 
 Then make a copy of the AoK HD.exe and name it Launcher.exe. 
 ## Install Voobly
+First install [the compatibility patch](https://www.memberplus.net/) and then create an account on voobly.com and install voobly.
 ### Make voobly links work in your browser
 Install mimeo and xdg-utils-mimeo. Then open ~/.config/mimeo/associations.txt
 and add
