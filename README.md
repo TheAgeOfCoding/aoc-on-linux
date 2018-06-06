@@ -19,4 +19,4 @@ and add
 /usr/share/playonlinux/playonlinux --run \"voobly\" %u
   ^voobly://
 ```
-now you can open voobly links right in your linux browser.
+now you can open voobly links right by clicking the link in your linux browser.
