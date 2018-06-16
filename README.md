@@ -4,7 +4,7 @@
 - Install Steam inside Play on Linux
     - Install MS core fonts
     - Add parameters to steam icon `-no-cef-sandbox -no-dwrite`
-- Deaktivate the Steam overlay for better performance
+- Deactivate the Steam overlay for better performance
 ### Bypass Launcher
 Go to the game folder (right click and go "open applications directory" then navigate to /steamapps/common/age2HD/ ). 
 Renamed the Launcher.exe to someting else. 
