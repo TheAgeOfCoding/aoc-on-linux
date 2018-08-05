@@ -5,8 +5,7 @@
 - Fix store rendering
     - Install MS core fonts
     - Add parameters to steam icon `-no-cef-sandbox -no-dwrite` in playonlinux
-- Open *drive_c/Program Files/Steam/config/config.vdf* and add [this code](config.vdf) right after "cid" on a new line
-- Install AoE
+- Install AoE if you get connection errors open *drive_c/Program Files/Steam/config/config.vdf* and add [this code](config.vdf) right after "cid" on a new line
 - Deactivate the Steam overlay for better performance
 ### Bypass Launcher
 Go to the game folder (right click and go "open applications directory" then navigate to /steamapps/common/age2HD/ ). 
