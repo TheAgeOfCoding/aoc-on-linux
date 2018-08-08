@@ -3,6 +3,7 @@
 - Install Play On Linux
 - Install Steam inside Play on Linux
 - Fix store rendering
+    - Set Wine to Windows XP
     - Install MS core fonts
     - Add parameters to steam icon `-no-cef-sandbox -no-dwrite` in playonlinux
 - Install AoE if you get connection errors open *drive_c/Program Files/Steam/config/config.vdf* and add [this code](config.vdf) right after "cid" on a new line
