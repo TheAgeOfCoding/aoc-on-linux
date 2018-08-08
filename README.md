@@ -30,3 +30,5 @@ now you can open voobly links right by clicking the link in your linux browser.
 #### Firefox
 Go to about:config and right-click. Then click on New->Boolean->network.protocol-handler.expose.voobly -> Value -> false
 Upon the next click on a voobly link firefox will ask you to choose a program to open voobly links. Choose xdg-open.
+### Optimize Voobly Performance
+Follow this guide for [better performance in voobly](https://ageofnotes.com/resolve-issues/age-empires-2-max-performance-windows-10/).
