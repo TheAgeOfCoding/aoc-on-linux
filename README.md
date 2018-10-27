@@ -1,6 +1,8 @@
 # Age of Conquerors + WK on Linux
 ## Wine Setup
 Set up a fresh 32 bit Wine prefix. Recommended UI for that is Playonlinux.
+Install Direct Play, Microsoft Visual C++ 2010 Runtime, Microsoft Visual C++ 2012 Runtime and Microsoft Visual C++ 2013 Runtime to your AoE II Wine prefix with winetricks. Wine mono should auto install when needed and should be enough.
+
 ## Install HD
 ### HD Without Wine (recommended)
 - If you enable Steam Play for non-compatible games you can install AoE II through your Linux steam
@@ -23,8 +25,6 @@ allows you to set up your hotkeys once and then import them to AoC and WK with t
 ### (Optional) Install Fonts
 In order to have the classic look for menus and some messages you need to install the original fonts.
 Install the fonts in *drive_c/Program Files/Steam/steamapps/common/Age2HD/resources/_common/fonts* to your system.
-## Prepare Wine
-Install Direct Play to your AoE II Wine prefix.
 ## Install Voobly
 First install [the compatibility patch](https://www.memberplus.net/) and then create an account on [voobly.com](https://www.voobly.com/) and install voobly.
 ### Make voobly links work in your browser
