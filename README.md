@@ -1,6 +1,6 @@
 # Age of Conquerors + WK on Linux
 ## Wine Setup
-Set up a fresh 32 bit Wine prefix.
+Set up a fresh 32 bit Wine prefix. Recommended UI for that is Playonlinux.
 ## Install HD
 ### HD Without Wine (recommended)
 - If you enable Steam Play for non-compatible games you can install AoE II through your Linux steam
