@@ -8,7 +8,7 @@ Install Direct Play, Microsoft Visual C++ 2010 Runtime, Microsoft Visual C++ 201
 - If you enable Steam Play for non-compatible games you can install AoE II through your Linux steam
 - Deactivate the Steam overlay for better performance
 ### HD With Wine
-   This method will soon stop working when Steam stops support of Windows XP since the Steam UI is not usable in any other setting.
+    This method will soon stop working when Steam stops support of Windows XP since the Steam UI is not usable in any other setting.
 - Install Play On Linux
 - Install Steam inside Play on Linux
 - Fix store rendering
