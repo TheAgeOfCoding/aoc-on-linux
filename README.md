@@ -1,5 +1,9 @@
 # Age of Conquerors on Linux
 ## Install HD
+### Without Wine (recommended)
+- If you enable Steam Play for non-compatible games you can install AoE II through your Linux steam
+- Deactivate the Steam overlay for better performance
+### With Wine
 - Install Play On Linux
 - Install Steam inside Play on Linux
 - Fix store rendering
