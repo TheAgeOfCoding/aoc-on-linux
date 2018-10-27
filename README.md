@@ -18,6 +18,7 @@ Go to the game folder (right click and go "open applications directory" then nav
 Rename the Launcher.exe to someting else. 
 Then make a copy of the AoK HD.exe and name it Launcher.exe.
 ### (Optional) Install Fonts
+In order to have the classic look for menus and some messages you need to install the original fonts.
 Install the fonts in *drive_c/Program Files/Steam/steamapps/common/Age2HD/resources/_common/fonts* to your system.
 ## Prepare Wine
 Install Direct Play to your AoE II wine prefix.
