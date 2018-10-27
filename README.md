@@ -1,4 +1,4 @@
-# Age of Conquerors on Linux
+# Age of Conquerors + WK on Linux
 ## Wine Setup
 Set up a fresh 32 bit Wine prefix.
 ## Install HD
