@@ -19,7 +19,7 @@ Install Direct Play, Microsoft Visual C++ 2010 Runtime, Microsoft Visual C++ 201
 - Install AoE if you get connection errors open *drive_c/Program Files/Steam/config/config.vdf* and add [this code](config.vdf) right after "cid" on a new line
 - Deactivate the Steam overlay for better performance
 ### (Optional) Bypass Launcher
-The game won't start unless you bypass the launcher.
+You won't be able to start the HD Version on Steam unless you bypass the launcher.
 Go to the game folder (right click and go "open applications directory" then navigate to /steamapps/common/age2HD/ ). 
 Rename the Launcher.exe to someting else. 
 Then make a copy of the AoK HD.exe and name it Launcher.exe. Having a working HD installation is recommended because it
